@@ -1,52 +1,52 @@
-{
- "paciente 1": {
+[
+ {
   "Nombre": "Rosa Elvira Dominguez Mendez",
   "Edad": 71,
   "Id": "11111"
  },
- "paciente 2": {
+ {
   "Nombre": "Laura Rocio Saenz",
   "Edad": 69,
   "Id": "22222"
  },
- "paciente 3": {
+ {
   "Nombre": "Luz Leon Farez",
   "Edad": 80,
   "Id": "33333"
  },
- "paciente 4": {
+ {
   "Nombre": "Delia Sarvelia Sanchez Munoz",
   "Edad": 69,
   "Id": "44444"
  },
- "paciente 5": {
+ {
   "Nombre": "Maria Magdalena Quilli Mora",
   "Edad": 75,
   "Id": "55555"
  },
- "paciente 6": {
+ {
   "Nombre": "Rosa Teodora Lazaro Chalen",
   "Edad": 65,
   "Id": "66666"
  },
- "paciente 7": {
+ {
   "Nombre": "Blanca Leonor Pizarro Jimo",
   "Edad": 82,
   "Id": "77777"
  },
- "paciente 8": {
+ {
   "Nombre": "Lilia Mercedes Ulloa Marin",
   "Edad": 75,
   "Id": "88888"
  },
- "paciente 9": {
+ {
   "Nombre": "Maria Isaura Molina Molina",
   "Edad": 83,
   "Id": "99999"
  },
- "paciente 10": {
+ {
   "Nombre": "Esperanza Dolores Bravo Bueno",
   "Edad": 76,
   "Id": "00000"
  }
-}
+]
